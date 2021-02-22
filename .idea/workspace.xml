@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2dbd9b2-9b18-493c-b7b5-e3cfe4ff11a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/vis-network.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/exampleUtil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NetworkViewer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NetworkViewer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/main.js" afterDir="false" />
@@ -62,6 +18,14 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,7 +41,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css/font-awesome" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -110,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613961509159</updated>
-      <workItem from="1613961517433" duration="11488000" />
+      <workItem from="1613961517433" duration="11750000" />
+      <workItem from="1614012534986" duration="3707000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1613971106635</created>
@@ -140,13 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613972086094</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed css">
+      <created>1613973728876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613973728876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="initial development" />
     <MESSAGE value="fix" />
     <MESSAGE value="removed tests" />
@@ -154,18 +129,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="removed css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="58" y="-745" key="CommitChangelistDialog2" timestamp="1613973643501">
+    <state x="58" y="-745" key="CommitChangelistDialog2" timestamp="1613973728482">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="58" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613973643501" />
-    <state x="242" y="-644" key="Vcs.Push.Dialog.v2" timestamp="1613972088490">
+    <state x="58" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613973728482" />
+    <state x="242" y="-644" key="Vcs.Push.Dialog.v2" timestamp="1613973730296">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-644" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613972088490" />
-    <state x="321" y="-540" key="com.intellij.ide.util.TipDialog" timestamp="1613961515106">
+    <state x="242" y="-644" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613973730296" />
+    <state x="321" y="-540" key="com.intellij.ide.util.TipDialog" timestamp="1614012562321">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="321" y="-540" key="com.intellij.ide.util.TipDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613961515106" />
+    <state x="321" y="-540" key="com.intellij.ide.util.TipDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1614012562321" />
     <state x="308" y="-616" width="672" height="486" key="find.popup" timestamp="1613966164880">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>

@@ -6,5 +6,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="75534ace91" level="application" />
+    <orderEntry type="library" name="seedrandom" level="application" />
+    <orderEntry type="library" name="alea" level="application" />
   </component>
 </module>
