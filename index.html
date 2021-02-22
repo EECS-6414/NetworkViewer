@@ -1,0 +1,57 @@
+
+<!doctype html>
+<html>
+<head>
+  <title>Review Network</title>
+
+  <script type="text/javascript" src="script/vis.js"></script>
+  
+  <link href="css/vis.css" rel="stylesheet" type="text/css" />
+  <link href="css/main.css" rel="stylesheet" >
+
+  <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+
+</head>
+
+<body>
+<h1>Play Store Review Network</h1>
+<label>
+  Filter nodes:
+  <select id="nodeFilterSelect">
+    <option value>All</option>
+    <option value="app">Apps</option>
+    <option value="author">Authors</option>
+    <option value="custom">Custom</option>
+  </select>
+  <form onsubmit="return false;">
+    <label for="nodeCount">Application name:</label>
+    <input id="nodeCount" type="text" value="" style="width: 150px" />
+    <input type="button" value="Filter" onclick="nodesFilter()" />
+  </form>
+</label>
+<label>
+  Filter edges:
+  <div>
+    <label>
+      <input type="checkbox" name="edgesFilter" value="positive" checked /><span style="color: green">Positive</span>
+    </label>
+  </div>
+  <div>
+    <label>
+      <input type="checkbox" name="edgesFilter" value="negative" checked /><span style="color: red">Negative</span>
+    </label>
+  </div>
+  <div>
+    <label>
+      <input type="checkbox" name="edgesFilter" value="neutral" checked /><span style="color: black">Neutral</span>
+    </label>
+  </div>
+</label>
+<br />
+
+<div id="mynetwork"></div>
+
+<script src="script/main.js"></script>
+
+</body>
+</html>

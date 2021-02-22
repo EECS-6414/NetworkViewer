@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2dbd9b2-9b18-493c-b7b5-e3cfe4ff11a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oomqXGerr2rdBwCISDLvQETZUn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2dbd9b2-9b18-493c-b7b5-e3cfe4ff11a3" name="Default Changelist" comment="" />
+      <created>1613961509159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613961509159</updated>
+      <workItem from="1613961517433" duration="8825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="-540" key="com.intellij.ide.util.TipDialog" timestamp="1613961515106">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="321" y="-540" key="com.intellij.ide.util.TipDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613961515106" />
+    <state x="308" y="-616" width="672" height="486" key="find.popup" timestamp="1613966164880">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="308" y="-616" width="672" height="486" key="find.popup/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613966164880" />
+  </component>
+</project>
