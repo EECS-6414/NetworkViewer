@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2dbd9b2-9b18-493c-b7b5-e3cfe4ff11a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e2dbd9b2-9b18-493c-b7b5-e3cfe4ff11a3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,14 +48,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613961509159</updated>
-      <workItem from="1613961517433" duration="8825000" />
+      <workItem from="1613961517433" duration="9212000" />
     </task>
+    <task id="LOCAL-00001" summary="initial development">
+      <created>1613971106635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613971106635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial development" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial development" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="58" y="-745" key="CommitChangelistDialog2" timestamp="1613971104453">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="58" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613971104453" />
+    <state x="242" y="-644" key="Vcs.Push.Dialog.v2" timestamp="1613971109585">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="242" y="-644" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613971109585" />
     <state x="321" y="-540" key="com.intellij.ide.util.TipDialog" timestamp="1613961515106">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
