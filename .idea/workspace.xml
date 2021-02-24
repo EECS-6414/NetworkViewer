@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2dbd9b2-9b18-493c-b7b5-e3cfe4ff11a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,7 @@
       <updated>1613961509159</updated>
       <workItem from="1613961517433" duration="11750000" />
       <workItem from="1614012534986" duration="3707000" />
-      <workItem from="1614117556723" duration="9984000" />
+      <workItem from="1614117556723" duration="10936000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1613971106635</created>
@@ -113,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613973728876</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added top authors">
+      <created>1614137477721</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614137477721</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,25 +130,26 @@
     <MESSAGE value="fix" />
     <MESSAGE value="removed tests" />
     <MESSAGE value="removed css" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed css" />
+    <MESSAGE value="Added top authors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added top authors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614131454678">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="383" y="221" key="#com.intellij.fileTypes.FileTypeChooser/-41.-745.1366.745/0.23.1280.777@0.23.1280.777" timestamp="1614131454678" />
-    <state x="58" y="-745" key="CommitChangelistDialog2" timestamp="1613973728482">
+    <state x="58" y="-745" key="CommitChangelistDialog2" timestamp="1614137477405">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="58" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613973728482" />
+    <state x="58" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1614137477405" />
     <state x="232" y="129" key="RollbackChangesDialog" timestamp="1614118770509">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="232" y="129" key="RollbackChangesDialog/-41.-745.1366.745/0.23.1280.777@0.23.1280.777" timestamp="1614118770509" />
-    <state x="242" y="-644" key="Vcs.Push.Dialog.v2" timestamp="1613973730296">
+    <state x="242" y="-644" key="Vcs.Push.Dialog.v2" timestamp="1614137479638">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-644" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1613973730296" />
+    <state x="242" y="-644" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1614137479638" />
     <state x="339" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1614117570045">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

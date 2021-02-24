@@ -10,11 +10,16 @@ function startNetwork(data) {
 
     var options = {
         physics: {
+            repulsion: {
+                nodeDistance: 450,
+                damping: 1,
+            },
             barnesHut: {
                 springLength: 300,
                 springConstant: 0.01,
-                centralGravity: 0.05
+                centralGravity: 0.01,
             },
+            timestep: 0.99,
         },
         groups: {
             app: {
@@ -25,7 +30,7 @@ function startNetwork(data) {
                 icon: {
                     face: "'FontAwesome'",
                     code: "\uf007",
-                    size: 50,
+                    size: 100,
                     color: "gray",
                 },
             },
