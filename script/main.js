@@ -21,6 +21,9 @@ function startNetwork(data) {
             },
             timestep: 0.99,
         },
+        edges: {
+            selectionWidth: 6,
+        },
         groups: {
             app: {
                 shape: "dot",
