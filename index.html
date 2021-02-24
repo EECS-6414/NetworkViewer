@@ -18,12 +18,13 @@
 </head>
 
 <body>
-<h1>Play Store Review Network</h1>
+<h1><i style="color: #ffc754;" class="fa fa-star" aria-hidden="true"></i> Play Store Review Network</h1>
 <label>
   Filter nodes:
   <select id="nodeFilterSelect">
     <option value>All</option>
-    <option value="app">Apps</option>
+    <option value="app">All Apps</option>
+    <option value="top">Top Apps</option>
     <option value="author">Authors</option>
     <option value="custom">Custom</option>
   </select>
@@ -32,30 +33,24 @@
     <input id="nodeCount" type="text" value="" style="width: 150px" />
     <input type="button" value="Filter" onclick="nodesFilter()" />
   </form>
+  <a style="text-align: center">Filter edges:</a>
+  <label>
+    <input type="checkbox" name="edgesFilter" value="positive" checked /><span style="color: green">Positive</span>
+  </label>
+  <label>
+    <input type="checkbox" name="edgesFilter" value="negative" checked /><span style="color: red">Negative</span>
+  </label>
+  <label>
+    <input type="checkbox" name="edgesFilter" value="neutral" checked /><span style="color: black">Neutral</span>
+  </label>
 </label>
-<label>
-  Filter edges:
-  <div>
-    <label>
-      <input type="checkbox" name="edgesFilter" value="positive" checked /><span style="color: green">Positive</span>
-    </label>
-  </div>
-  <div>
-    <label>
-      <input type="checkbox" name="edgesFilter" value="negative" checked /><span style="color: red">Negative</span>
-    </label>
-  </div>
-  <div>
-    <label>
-      <input type="checkbox" name="edgesFilter" value="neutral" checked /><span style="color: black">Neutral</span>
-    </label>
-  </div>
-</label>
-<br />
+
+<br/>
+<br/>
 
 <div id="mynetwork"></div>
 
 <script src="script/main.js"></script>
-
+<p>Copyright &#169; 2021 <a href="https://jaimedantas.com">Jaime</a>, <a href="https://github.com/AlexanderWHGregor">Alex</a> and <a href="https://github.com/aruncal">Arun</a>.</p>
 </body>
 </html>
